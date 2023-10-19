@@ -1,0 +1,15 @@
+如果你是第一次使用R语言，建议先通过R语言的速查表简单了解R-base的语法。
+
+本开源项目的R编码均使用tidyverse扩展包，可以在Console中运行以下命令安装它。
+
+```{r}
+install.packages("tidyverse")
+```
+
+使用它时，可以在脚本中运行：
+
+```{r}
+library(tidyverse)
+```
+
+也可以直接在该文件中直接运行以完成， 快捷键Ctrl+ Enter。
